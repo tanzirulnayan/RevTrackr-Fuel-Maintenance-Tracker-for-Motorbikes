@@ -1,0 +1,6 @@
+@RevTrackr_HostAddress = http://localhost:5047
+
+GET {{RevTrackr_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
